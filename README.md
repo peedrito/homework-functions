@@ -1,37 +1,41 @@
 ![image](https://github.com/peedrito/peedrito/assets/143858757/dfe5c01f-63ec-4ffb-8173-b1c3a39d6d80)
 
+Certainly! Here's the translated README:
+
+![image](https://github.com/peedrito/peedrito/assets/143858757/dfe5c01f-63ec-4ffb-8173-b1c3a39d6d80)
+
 # 🚀 Back-end | Functions
 
-### Exercises
+### Exercícios
 
-This repository contains a series of practical exercises related to back-end development, focusing on the application of functions in JavaScript.
+Este repositório contém uma série de exercícios práticos relacionados ao desenvolvimento back-end, com foco na aplicação de funções em JavaScript.
 
-## Description
+## Descrição
 
-The exercises cover different aspects of back-end development, including the implementation of functions to solve common problems encountered in system development.
+Os exercícios abrangem diferentes aspectos do desenvolvimento back-end, incluindo a implementação de funções para resolver problemas comuns encontrados no desenvolvimento de sistemas.
 
-### Exercise List
+### Lista de Exercícios
 
-1. **📝 Test Correction System:** Develop a function that automatically corrects test answers based on a predefined answer key.
+1. **📝 Sistema de Correção de Provas:** Desenvolva uma função que corrige automaticamente respostas de testes com base em uma chave de respostas predefinida.
    
-2. **🚗 Car:** Implement a series of functions that simulate the operation of a car, such as starting, stopping, accelerating, and braking.
+2. **🚗 Carro:** Implemente uma série de funções que simulam a operação de um carro, como ligar, desligar, acelerar e frear.
    
-3. **🛒 E-commerce Cart:** Create functions to add, remove, and calculate the total of a shopping cart in an e-commerce system.
+3. **🛒 Carrinho de Compras de E-commerce:** Crie funções para adicionar, remover e calcular o total de um carrinho de compras em um sistema de e-commerce.
    
-4. **💳 Banking Transactions System:** Develop a set of functions that allow basic banking transactions, such as deposits, withdrawals, and transfers between accounts.
+4. **💳 Sistema de Transações Bancárias:** Desenvolva um conjunto de funções que permitam transações bancárias básicas, como depósitos, saques e transferências entre contas.
 
-## Instructions
+## Instruções
 
-Each exercise is contained in its own folder in this repository. Within each folder, you will find the corresponding JavaScript code for the exercise, as well as any additional files necessary for its execution.
+Cada exercício está contido em sua própria pasta neste repositório. Dentro de cada pasta, você encontrará o código JavaScript correspondente ao exercício, bem como quaisquer arquivos adicionais necessários para sua execução.
 
-## How to Use
+## Como Usar
 
-1. Clone this repository to your local development environment.
-2. Navigate to the folder of the desired exercise.
-3. Open the corresponding JavaScript file in a code editor of your choice.
-4. Implement the solution for the exercise according to the instructions provided in the code comments.
-5. Test your solution by running the JavaScript file in a Node.js environment or in the browser console.
+1. Clone este repositório para seu ambiente de desenvolvimento local.
+2. Navegue até a pasta do exercício desejado.
+3. Abra o arquivo JavaScript correspondente em um editor de código de sua escolha.
+4. Implemente a solução para o exercício de acordo com as instruções fornecidas nos comentários do código.
+5. Teste sua solução executando o arquivo JavaScript em um ambiente Node.js ou no console do navegador.
 
-## Contribution
+## Contribuição
 
-Contributions are welcome! If you have any suggestions for improvement or want to add new exercises, feel free to open an issue or send a pull request to this repository. Happy coding! 🌟
+Contribuições são bem-vindas! Se você tiver alguma sugestão de melhoria ou quiser adicionar novos exercícios, sinta-se à vontade para abrir um problema ou enviar uma solicitação pull para este repositório.
