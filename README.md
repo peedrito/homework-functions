@@ -1,9 +1,5 @@
 ![image](https://github.com/peedrito/peedrito/assets/143858757/dfe5c01f-63ec-4ffb-8173-b1c3a39d6d80)
 
-Certainly! Here's the translated README:
-
-![image](https://github.com/peedrito/peedrito/assets/143858757/dfe5c01f-63ec-4ffb-8173-b1c3a39d6d80)
-
 # 🚀 Back-end | Functions
 
 ### Exercícios
